@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://knst.fi/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://knst.fi/assets/img/og-image.jpg</image:loc><image:title>KNST — raw hardstyle DJ &amp; producer</image:title></image:image>
+    <image:image><image:loc>https://knst.fi/assets/img/duo.jpg</image:loc><image:title>KNST live portrait</image:title></image:image>
+    <image:image><image:loc>https://knst.fi/assets/img/live-booth.jpg</image:loc><image:title>Live show behind the decks</image:title></image:image>
+    <image:image><image:loc>https://knst.fi/assets/img/live-bw.jpg</image:loc><image:title>Behind the decks, black and white</image:title></image:image>
+  </url>
+</urlset>
